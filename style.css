@@ -17,6 +17,16 @@
   text-align: center;
 }
 
+.container a {
+  color: rgb(226, 226, 226);
+  text-decoration: none;
+}
+
+.container a:hover {
+  color: gray;
+  transition: .3s;
+}
+
 .container .title h1 {
   font-size: 3em;
   color: rgb(48, 46, 46);
